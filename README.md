@@ -135,5 +135,5 @@ This framework emerged from building and sandbox-testing 8 AI engines across gov
 
 No proprietary methods or product architectures are described in this document. This is the discipline, not the products.
 
-Contact: aqdsintel@gmail.com
+Contact: aqds.intel@gmail.com
 Organisation: AQDS Intelligence
